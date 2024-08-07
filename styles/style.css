@@ -1,0 +1,15 @@
+
+
+
+body{
+    margin: 0px;
+}
+.input-section{
+    background:linear-gradient(#E38CAF, #EC048C);
+    background-repeat: no-repeat;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
